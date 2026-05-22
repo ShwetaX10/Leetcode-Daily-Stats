@@ -1,0 +1,12 @@
+import math
+class Solution(object):
+    def myPow(self, x, n):
+        """
+        :type x: float
+        :type n: int
+        :rtype: float
+        """
+
+        p=math.pow(x,n)
+        return p
+        
