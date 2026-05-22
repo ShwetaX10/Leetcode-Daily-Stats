@@ -1,4 +1,4 @@
-# Leetcode-Daily-Stats
+
 
 <h1 align="center">🚀 LeetCode Journey</h1>
 <h3 align="center">Solving Problems • Learning Daily • Growing Consistently</h3>
@@ -34,8 +34,6 @@ Each solution in this repository includes:
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShwetaX10&theme=react-dark)
 
 
-🐍 Snake Contribution Animation
-![snake gif](https://github.com/ShwetaX10/ShwetaX10/blob/output/github-contribution-grid-snake.svg)
 
 # 🛠️ Tech Stack
 
