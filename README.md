@@ -24,8 +24,8 @@ Each solution in this repository includes:
 
 📊 LeetCode Stats
 
-You can embed your live LeetCode stats using this:
-![LeetCode Stats](https://leetcard.jacoblin.cool/ShwetaX10?theme=dark&font=Nunito&ext=heatmap)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Sweater_X?theme=dark&font=Nunito&ext=heatmap)
 
 📈 Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShwetaX10&theme=react-dark)
